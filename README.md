@@ -9,7 +9,8 @@
 7) **Survey Report Document.** The shortcomings of the “as‑is” processes have been identified, and the necessary changes have been justified and described. The expected changes in the “to‑be” process have also been outlined.
 8) **Class diagram.** 
 9) **Object diagram.**
-10) **User Manual and Training Program Document document.** The following have been described:
+10) **CJM.** 
+11) **User Manual and Training Program Document document.** The following have been described:
 * The product selection and order placement process.
 * The user login and new user registration process.
 * The functionality of the user’s personal account, along with low‑fidelity prototypes.
