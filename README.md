@@ -7,8 +7,8 @@
 5) **Test Program and Procedure.** The document contains a list of checks that must be successfully completed for the new product to be accepted by the customer for industrial operation. Functional and non‑functional requirements are described.
 6) **Technical Specification Document.** The interaction system between the laundry service and linen hotels, as well as the operations of the logistics services (including the activities of the logistics manager and the driver), has been studied. Two departments have been examined: the Linen Department and the Logistics Management Department. The current processes have been investigated, including inventory, linen collection, linen delivery, and planning. Interviews were conducted with the hotel owner, the linen department supervisor, and the logistics manager. Both the “as‑is” and “to‑be” processes (developed by the hotel owner) were reviewed, along with the meeting minutes.
 7) **Survey Report Document.** The shortcomings of the “as‑is” processes have been identified, and the necessary changes have been justified and described. The expected changes in the “to‑be” process have also been outlined.
-8) **Class diagram.** 
-9) **Object diagram.**
+8) **Class diagram.** (see project 12)
+9) **Object diagram.** (see project 12)
 10) **CJM.** 
 11) **User Manual and Training Program Document document.** The following have been described:
 * The product selection and order placement process.
@@ -16,3 +16,11 @@
 * The functionality of the user’s personal account, along with low‑fidelity prototypes.
 * Typical exceptional situations when working with the website and possible ways to resolve the issues have been listed.
 * A training program for working with the web version of the “Peredelkino” website has been developed.
+12) **Requirements Document for the Solution.** The document includes:
+* Business requirements and user requirements, including user stories and use cases.
+* A detailed description of use cases.
+* The design of the “to-be” process model.
+* A low-wi prototypes. 
+* A class diagram and an object diagram.
+* Acceptance criteria for the solution.
+* A description of risks that may arise during project implementation.
